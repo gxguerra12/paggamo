@@ -1,9 +1,5 @@
 #!/bin/bash
 
-mkdir PAG_GAMO
-mkdir PAG_GAMO/templates
-mkdir PAG_GAMO/static
-
 cp sample_app2.py PAG_GAMO/.
 cp -r templates/* PAG_GAMO/templates/.
 cp -r static/* PAG_GAMO/static/.
