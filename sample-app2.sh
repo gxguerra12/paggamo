@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd /home/devasc/labs/
 mkdir PAG_GAMO
 mkdir PAG_GAMO/templates
 mkdir PAG_GAMO/static
